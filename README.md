@@ -36,7 +36,7 @@ Before running the game, ensure you have the following installed:
 
 ```bash
     git clone https://github.com/Heshbon/tic-tac-toe.git
-    Navigate into the project directory:
+    Navigate into the project directory
     cd tic-tac-toe
 ```
 
