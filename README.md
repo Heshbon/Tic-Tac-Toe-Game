@@ -5,7 +5,6 @@ A simple implementation of the Tic-Tac-Toe game using Python and Tkinter.
 ### Table of Contents
 
 - Features.
-- Deployed ticTacToe.
   - Prerequisites.
   - Installation.
 - Usage
@@ -19,10 +18,6 @@ A simple implementation of the Tic-Tac-Toe game using Python and Tkinter.
 - Random selection of starting player.
 - Visual indication of game state (turn, win, tie).
 - Restart functionality for a new game.
-
-### Deployed ticTacToe
-
-- Check out the live application here.
 
 ### Prerequisites
 
